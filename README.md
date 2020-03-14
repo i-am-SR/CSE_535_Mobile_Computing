@@ -50,5 +50,8 @@ button will also take back the user to screen 1.
 	The videos will be saved in a folder heirarchy [ Group Number -> ID -> Signs -> videos ]. These details are taken from the home screen.
 	If the folder heirarchy doesnt exist, it will be created. The file is saved as [ GESTUREName_(Practice Number)_USERLASTNAME.mp4 ] on the cloud.
 	The app navigates back to Screen 1 once the upload is successful.
+	
+	
+The second phase of this projec that classifies ASL gestures using a RESTful API is located at : https://github.com/i-am-SR/RESTful_API_to_classify_ASL
 
 
