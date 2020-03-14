@@ -10,6 +10,8 @@ Gesture list: {gift, car, pay, pet, sell, explain, that, book, now, work, total,
 
 On selection of a single gesture the user is taken to screen 2
 
+![Screen1](Images/Screen_1.jpg)
+
 **Screen 2**: Here the downlaoded video of an expert performing the gesture is shown
 
 The video will have to be downloaded on the phone from the SignSavvy ASL gesture repository
@@ -18,10 +20,17 @@ https://www.signingsavvy.com/
 
 Screen 2 has another button that says “RECORD”. On pressing this button, the user is taken to Screen 3.
 
+![Screen2](Images/Screen_2.jpg)
+
 **Screen 3**: In this screen the camera interface is opened for the user to record the practice gesture. 
 
 On pressing the UPLOAD button, the user should be able to upload the gesture to the Firebase cloud storage. Moreover, clicking this 
 button will also take back the user to screen 1.
+
+![Screen3](Images/Screen_3.jpg)
+
+
+![Firebase](Images/firebase.png)
 
 #Instructions to run the code:
 
