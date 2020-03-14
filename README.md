@@ -10,7 +10,7 @@ Gesture list: {gift, car, pay, pet, sell, explain, that, book, now, work, total,
 
 On selection of a single gesture the user is taken to screen 2
 
-<img src="https://github.com/i-am-SR/CSE_535_Mobile_Computing/blob/master/Images/Screen_1.jpg" width="350" height="200">
+<img src="https://github.com/i-am-SR/CSE_535_Mobile_Computing/blob/master/Images/Screen_1.jpg" width="200" height="350">
 
 **Screen 2**: Here the downlaoded video of an expert performing the gesture is shown
 
@@ -20,14 +20,14 @@ https://www.signingsavvy.com/
 
 Screen 2 has another button that says “RECORD”. On pressing this button, the user is taken to Screen 3.
 
-<img src="https://github.com/i-am-SR/CSE_535_Mobile_Computing/blob/master/Images/Screen_2.jpg" width="350" height="200">
+<img src="https://github.com/i-am-SR/CSE_535_Mobile_Computing/blob/master/Images/Screen_2.jpg" width="200" height="350">
 
 **Screen 3**: In this screen the camera interface is opened for the user to record the practice gesture. 
 
 On pressing the UPLOAD button, the user should be able to upload the gesture to the Firebase cloud storage. Moreover, clicking this 
 button will also take back the user to screen 1.
 
-<img src="https://github.com/i-am-SR/CSE_535_Mobile_Computing/blob/master/Images/Screen_3.jpg" width="350" height="200">
+<img src="https://github.com/i-am-SR/CSE_535_Mobile_Computing/blob/master/Images/Screen_3.jpg" width="200" height="350">
 
 ![Firebase](Images/firebase.png)
 
