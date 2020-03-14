@@ -52,6 +52,8 @@ button will also take back the user to screen 1.
 	The app navigates back to Screen 1 once the upload is successful.
 	
 	
+Created by Sumit Rawat, Prem Patel, Dhruv Patel and Kum Hee Choy
+
 The second phase of this project that classifies ASL gestures using a RESTful API is located at : https://github.com/i-am-SR/RESTful_API_to_classify_ASL
 
 
