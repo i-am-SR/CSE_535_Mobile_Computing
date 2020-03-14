@@ -5,14 +5,23 @@ This is an android app that lets users download American Sign Language (ASL) dem
 The mobile application has three screens:
 
 **Screen 1**: Shows a drop down menu of 20 different gestures
+
 Gesture list: {gift, car, pay, pet, sell, explain, that, book, now, work, total, trip, future, good, thank you, learn, agent, should, like, movie}
+
 On selection of a single gesture the user is taken to screen 2
+
 **Screen 2**: Here the downlaoded video of an expert performing the gesture is shown
+
 The video will have to be downloaded on the phone from the SignSavvy ASL gesture repository
+
 https://www.signingsavvy.com/
+
 Screen 2 has another button that says “RECORD”. On pressing this button, the user is taken to Screen 3.
+
 **Screen 3**: In this screen the camera interface is opened for the user to record the practice gesture. 
-On pressing the UPLOAD button, the user should be able to upload the gesture to the Firebase cloud storage. Moreover, clicking this button will also take back the user to screen 1.
+
+On pressing the UPLOAD button, the user should be able to upload the gesture to the Firebase cloud storage. Moreover, clicking this 
+button will also take back the user to screen 1.
 
 #Instructions to run the code:
 
