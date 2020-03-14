@@ -10,7 +10,7 @@ Gesture list: {gift, car, pay, pet, sell, explain, that, book, now, work, total,
 
 On selection of a single gesture the user is taken to screen 2
 
-![Screen1](Images/Screen_1.jpg){:height="700px" width="400px"}
+<img src="https://github.com/i-am-SR/CSE_535_Mobile_Computing/blob/master/Images/Screen_1.jpg" width="700" height="400">
 
 **Screen 2**: Here the downlaoded video of an expert performing the gesture is shown
 
