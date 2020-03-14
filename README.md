@@ -1,4 +1,4 @@
-# CSE 535 - Android app for downloading, recording and the uploading American Sign Language gestures
+# CSE 535 - Android app for downloading, recording and then uploading American Sign Language gestures to cloud
 
 This is an android app that lets users download American Sign Language (ASL) demo videos as well as upload their own recorded gesture videos to Firebase cloud storage. 
 
